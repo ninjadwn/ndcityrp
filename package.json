@@ -1,0 +1,21 @@
+{
+  "name": "kk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "x",
+  "scripts": {
+    "test": "x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "x"
+  },
+  "keywords": [
+    "x"
+  ],
+  "author": "x",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
